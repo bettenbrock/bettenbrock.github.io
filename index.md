@@ -29,16 +29,16 @@ body {font-family: "Lato", sans-serif}
 
   <!-- Automatic Slideshow Images -->
   <div class="mySlides w3-display-container w3-center">
-    <img src="https://cdn.jsdelivr.net/gh/bettenbrock/sarah/assets/IMG_4756.JPG" style="width:50%">
+    <img src="assets/IMG_4756.JPG" style="width:50%">
   </div>
   <div class="mySlides w3-display-container w3-center">
-    <img src="https://cdn.jsdelivr.net/gh/bettenbrock/sarah/assets/IMG_4394.JPG" style="width:50%">
+    <img src="assets/IMG_4394.JPG" style="width:50%">
   </div>
   <div class="mySlides w3-display-container w3-center">
-    <img src="https://cdn.jsdelivr.net/gh/bettenbrock/sarah/assets/IMG_4070.JPG" style="width:50%">
+    <img src="assets/IMG_4070.JPG" style="width:50%">
   </div>
   <div class="mySlides w3-display-container w3-center">
-    <img src="https://cdn.jsdelivr.net/gh/bettenbrock/sarah/assets/P1000774.JPG" style="width:50%">
+    <img src="assets/P1000774.JPG" style="width:50%">
   </div>
 
   <!-- The Band Section -->
@@ -50,10 +50,10 @@ body {font-family: "Lato", sans-serif}
     </p>
     <div class="w3-row w3-padding-16">
       <div class="w3-col" style="width:50%">
-        <img src="https://cdn.jsdelivr.net/gh/bettenbrock/sarah/assets/IMG_5429.JPG" class="w3-round w3-margin-bottom" style="width:100%">
+        <img src="assets/IMG_5429.JPG" class="w3-round w3-margin-bottom" style="width:100%">
       </div>
       <div class="w3-col" style="width:50%">
-        <img src="https://cdn.jsdelivr.net/gh/bettenbrock/sarah/assets/IMG_4788.JPG" class="w3-round" style="width:75%">
+        <img src="assets/IMG_4788.JPG" class="w3-round" style="width:75%">
       </div>
     </div>
   </div>
