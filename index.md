@@ -29,16 +29,16 @@ body {font-family: "Lato", sans-serif}
 
   <!-- Automatic Slideshow Images -->
   <div class="mySlides w3-display-container w3-center">
-    <img src="assets/IMG_4756.JPG" style="width:50%">
+    <img src="assets/IMG_4756.JPG" style="width:75%">
   </div>
   <div class="mySlides w3-display-container w3-center">
-    <img src="assets/IMG_4394.JPG" style="width:50%">
+    <img src="assets/IMG_4394.JPG" style="width:75%">
   </div>
   <div class="mySlides w3-display-container w3-center">
-    <img src="assets/IMG_4070.JPG" style="width:50%">
+    <img src="assets/IMG_4070.JPG" style="width:75%">
   </div>
   <div class="mySlides w3-display-container w3-center">
-    <img src="assets/P1000774.JPG" style="width:50%">
+    <img src="assets/P1000774.JPG" style="width:75%">
   </div>
 
   <!-- The Band Section -->
