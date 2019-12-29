@@ -69,7 +69,7 @@ body {font-family: "Lato", sans-serif}
             <p class="w3-opacity">Sun 29 Dec 2019</p>
             <p>Sarah has an amazing taste in music, and she always introduces me to 
                 <a href="spotify:track:2kJwzbxV2ppxnQoYw4GLBZ" target="_blank">songs</a> that I can't get out of my head</p>
-                <p class="w3-opacity">PS: click the underlined word</p>
+                <p class="w3-opacity">PS: click on the word songs</p>
           </div>
         </div>
       </div>
