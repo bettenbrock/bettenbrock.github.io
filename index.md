@@ -1,4 +1,4 @@
-<!DOCTYPE md>
+<!DOCTYPE html>
 
 <html lang="en">
 <title>Sarah</title>
