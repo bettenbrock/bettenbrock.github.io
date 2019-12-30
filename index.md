@@ -62,7 +62,6 @@ body {font-family: "Lato", sans-serif}
   <div class="w3-black">
     <div class="w3-container w3-content w3-padding-16" style="max-width:2000px">
       <h1 class="w3-wide w3-center">Reasons I love Sarah Bettenbrock</h1>
-
       <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
         <div class="w3-half w3-margin-bottom">
           <div class="w3-container w3-white">
@@ -70,6 +69,12 @@ body {font-family: "Lato", sans-serif}
             <p>Sarah has an amazing taste in music, and she always introduces me to 
                 <a href="spotify:track:2kJwzbxV2ppxnQoYw4GLBZ" target="_blank">songs</a> that I can't get out of my head</p>
                 <p class="w3-opacity">PS: click on the word songs</p>
+          </div>
+        </div>
+        <div class="w3-half w3-margin-bottom">
+          <div class="w3-container w3-white">
+            <p class="w3-opacity">Mon 30 Dec 2019</p>
+            <p>Sarah has an extremely contagious laugh and smile that can always cheer me up if something has me down</p>
           </div>
         </div>
       </div>
