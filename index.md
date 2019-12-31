@@ -77,6 +77,13 @@ body {font-family: "Lato", sans-serif}
             <p>Sarah has an extremely contagious laugh and smile that can always cheer me up if something has me down</p>
           </div>
         </div>
+      <div class="w3-row-padding w3-padding-32" style="margin:0 -8px">
+        <div class="w3-half w3-margin-bottom">
+          <div class="w3-container w3-white">
+            <p class="w3-opacity">Tue 31 Dec 2019</p>
+            <p>I love how Sarah intoduces me to new foods that I always end up liking.  I don't want to think about all the amazing stuff I'd be missing out on if I never met her</p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
