@@ -84,6 +84,12 @@ body {font-family: "Lato", sans-serif}
             <p>I love how Sarah intoduces me to new foods that I always end up liking.  I don't want to think about all the amazing stuff I'd be missing out on if I never met her</p>
           </div>
         </div>
+        <div class="w3-half w3-margin-bottom">
+          <div class="w3-container w3-white">
+            <p class="w3-opacity">Wed 1 Jan 2020</p>
+            <p>I love Sarah because even when she is 4305 miles away, I know that she is still thinking about me.  Happy New Years! I enjoyed the facetime even if it was a lil pixely.  This year is going to be amazing.</p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
