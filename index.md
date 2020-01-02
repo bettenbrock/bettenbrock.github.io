@@ -96,7 +96,7 @@ body {font-family: "Lato", sans-serif}
         <div class="w3-half w3-margin-bottom">
             <div class="w3-container w3-white">
               <p class="w3-opacity">Thu 2 Jan 2020</p>
-              <p>Being with Sarah, whether at home or out on an adventure, always produces memories that are worth keeping forever
+              <p>Being with Sarah, whether at home or out on an adventure, always produces memories that are worth keeping 
                   <a href="https://photos.app.goo.gl/w4x9m9ci6VfxiTay8" target="_blank">forever</a>.</p>
                   <p class="w3-opacity">PS: click on the word forever</p>
             </div>
