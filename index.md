@@ -62,7 +62,7 @@ body {font-family: "Lato", sans-serif}
   <div class="w3-black">
     <div class="w3-container w3-content w3-padding-16" style="max-width:2000px">
       <h1 class="w3-wide w3-center">Reasons I love Sarah Bettenbrock</h1>
-      <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
+      <div class="w3-row-padding" style="margin:0 -16px">
         <div class="w3-half w3-margin-bottom">
           <div class="w3-container w3-white">
             <p class="w3-opacity">Sun 29 Dec 2019</p>
@@ -77,7 +77,8 @@ body {font-family: "Lato", sans-serif}
             <p>Sarah has an extremely contagious laugh and smile that can always cheer me up if something has me down</p>
           </div>
         </div>
-      <div class="w3-row-padding w3-padding-32" style="margin:0 -8px">
+      </div>
+      <div class="w3-row-padding" style="margin:0 -16px">
         <div class="w3-half w3-margin-bottom">
           <div class="w3-container w3-white">
             <p class="w3-opacity">Tue 31 Dec 2019</p>
@@ -91,6 +92,16 @@ body {font-family: "Lato", sans-serif}
           </div>
         </div>
       </div>
+      <div class="w3-row-padding" style="margin:0 -16px">
+        <div class="w3-half w3-margin-bottom">
+            <div class="w3-container w3-white">
+              <p class="w3-opacity">Thu 2 Jan 2020</p>
+              <p>Being with Sarah, whether at home or out on an adventure, always produces memories that are worth keeping forever
+                  <a href="https://photos.app.goo.gl/w4x9m9ci6VfxiTay8" target="_blank">forever</a>.</p>
+                  <p class="w3-opacity">PS: click on the word forever</p>
+            </div>
+          </div>
+        </div>
     </div>
   </div>
 
