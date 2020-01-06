@@ -111,8 +111,22 @@ body {font-family: "Lato", sans-serif}
       <div class="w3-row-padding" style="margin:0 -16px">
         <div class="w3-half w3-margin-bottom">
           <div class="w3-container w3-white">
-            <p class="w3-opacity">Fri 4 Jan 2020</p>
+            <p class="w3-opacity">Sat 4 Jan 2020</p>
             <p>Both Sarah and I can tell each other how we feel, and I know that we both will respect each other afterwards</p>
+          </div>
+        </div>
+        <div class="w3-half w3-margin-bottom">
+          <div class="w3-container w3-white">
+            <p class="w3-opacity">Sun 5 Jan 2020</p>
+            <p>She has beautiful blue eyes that I often lose myself in</p>
+          </div>
+        </div>
+      </div>
+      <div class="w3-row-padding" style="margin:0 -16px">
+        <div class="w3-half w3-margin-bottom">
+          <div class="w3-container w3-white">
+            <p class="w3-opacity">Mon 6 Jan 2020</p>
+            <p>She has beautiful blue eyes that I often lose myself in</p>
           </div>
         </div>
       </div>
