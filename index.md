@@ -126,7 +126,7 @@ body {font-family: "Lato", sans-serif}
         <div class="w3-half w3-margin-bottom">
           <div class="w3-container w3-white">
             <p class="w3-opacity">Mon 6 Jan 2020</p>
-            <p>She has beautiful blue eyes that I often lose myself in</p>
+            <p>Sarah loves doggos and sends me cute videos of them</p>
           </div>
         </div>
       </div>
